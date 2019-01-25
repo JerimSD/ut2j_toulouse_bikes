@@ -1,4 +1,8 @@
 /venv
 .idea/
 api_key.py
+environment.py
 __pycache__/
+logs/
+data.json
+*.pyc
